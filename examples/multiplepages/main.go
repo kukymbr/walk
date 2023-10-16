@@ -6,11 +6,9 @@ package main
 
 import (
 	"bytes"
-)
 
-import (
-	"github.com/lxn/walk"
-	. "github.com/lxn/walk/declarative"
+	"github.com/kukymbr/walk"
+	. "github.com/kukymbr/walk/declarative"
 )
 
 func main() {

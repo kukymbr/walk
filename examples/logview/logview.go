@@ -7,10 +7,8 @@ import (
 	"errors"
 	"syscall"
 	"unsafe"
-)
 
-import (
-	"github.com/lxn/walk"
+	"github.com/kukymbr/walk"
 	"github.com/lxn/win"
 )
 
